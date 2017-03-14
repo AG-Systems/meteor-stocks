@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+#render-target
+{
+    margin: 0 auto;
+}
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
